@@ -6,6 +6,7 @@
         <page name='UIColor'/>
         <page name='Int'/>
         <page name='Week Self And Unowned Self'/>
+        <page name='URL Request retry'/>
         <page name='ObservableObject'/>
     </pages>
 </playground>
