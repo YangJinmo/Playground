@@ -5,6 +5,6 @@
         <page name='String'/>
         <page name='UIColor'/>
         <page name='Int'/>
-        <page name='WeekSelfAndUnownedSelf'/>
+        <page name='Week Self And Unowned Self'/>
     </pages>
 </playground>
